@@ -11,6 +11,7 @@ Python · SQL / SQLite · TensorFlow / Keras · scikit-learn · spaCy · Pandas 
 
 ### 📌 Featured Projects
 - [Industry Slogan Generator & Classifier](https://github.com/Johntan13/neural-network-slogan-classifier): two stacked-LSTM models (generate, then classify) trained on 5,340 slogans across 136 industries
+- [Amazon Review Sentiment Analysis](https://github.com/Johntan13/nlp-sentiment-amazon-reviews): spaCy NLP pipeline that scores 28,332 product reviews and checks its predictions against star ratings (75.7% agreement)
 - [ShelfTrack: Bookstore Inventory](https://github.com/Johntan13/sql-bookstore-inventory): SQLite CLI that grows from CRUD into a layered, transaction-safe architecture
 - [Telco Churn Prediction](https://github.com/Johntan13/machine-learning-telco-churn): logistic regression vs. a tuned random forest, with the model picked by churn recall
 - [US Arrests: PCA & Clustering](https://github.com/Johntan13/unsupervised-ml-usarrests): PCA plus K-means vs. hierarchical clustering (97.5% agreement)
